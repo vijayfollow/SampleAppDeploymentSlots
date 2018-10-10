@@ -1,9 +1,5 @@
 ﻿
 
-$(document).ready(function () {
-
-});
-
 function OpenDescription() {
     $("#divDesc").css("display", "");
     $("#pTagOpen").css("display", "none");
