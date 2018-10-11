@@ -11,3 +11,4 @@ function HideDescription() {
     $("#pTagOpen").css("display", "");
     $("#pTagClose").css("display", "none");
 }
+

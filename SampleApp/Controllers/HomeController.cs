@@ -12,6 +12,11 @@ namespace SampleApp.Controllers
         {
             ViewBag.Title = "Deployment slots";
 
+            for (long i = 0; i < 100000; i++)
+            {
+                
+            }
+
             return View();
         }
     }
